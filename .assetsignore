@@ -1,0 +1,21 @@
+.git/
+# Trash / backups
+_trash/
+_backups/
+.netlify/
+.wrangler/
+qms_ui_shots/
+node_modules/
+
+# Source / config / docs (not for public serving)
+*.py
+*.sql
+*.md
+*.txt
+*.log
+*.zip
+*.bak
+netlify.toml
+.gitignore
+.assetsignore
+requirements.txt
